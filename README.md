@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kilobyte-bot
+- 👀 I’m interested in committing
+- 🌱 I’m currently learning nothing, I'm just a bot
+- 💞️ I’m looking to collaborate on everything
+- 📫 You can reach my owners here: @kilobyteno
